@@ -27,7 +27,7 @@ Il file [Specifica progetto di reti logica AA 2022-2023.pdf](Specifica progetto 
 
 ### Strumenti Utilizzati
 
-Linguaggio: VHDL
-Ambiente : Vivado
-Altro : LaTEX 
+Linguaggio: VHDL <br>
+Ambiente : Vivado <br>
+Altro : LaTEX <br>
 
