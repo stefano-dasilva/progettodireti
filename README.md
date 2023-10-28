@@ -23,7 +23,7 @@ Il modulo deve essere progettato per garantire che il tempo massimo per produrre
 
 ## Appendice
 
-Il file [Specifica progetto di reti logica AA 2022-2023.pdf](Specifica progetto di reti logica AA 2022-2023.pdf) contiene la specifica completa del progetto, mentre [10583319.pdf](10583319.pdf) è un file scritto in LaTEX che descrive in maniera dettagliata il processo logico e decisionale che mi ha portato alla progettazione del modulo.
+Il file [Specifica progetto di reti logica AA 2022-2023.pdf](Specifica%20progetto%20di%20reti%20logica%20AA%202022-2023.pdf) contiene la specifica completa del progetto, mentre [10583319.pdf](10583319.pdf) è un file scritto in LaTEX che descrive in maniera dettagliata il processo logico e decisionale che mi ha portato alla progettazione del modulo.
 
 ### Strumenti Utilizzati
 
